@@ -1,8 +1,8 @@
 # Marcovaldo-GPT
 GPT-style transformer model trained on Italo Calvino's _Marcovaldo_ to generate text in the author's distinctive style.
 ## Overview
-To gain a deeper understanding of state-of-the-art transformer models, I decided to implement a decoder-only transformer that autoregressively predicts the next token (in this case: character) in a sequence.
-The model is trained to predict each successive token in parallel across the entire sequence, using causal self-attention to ensure that future tokens do not influence the predictions of previous ones.
+To gain a deeper understanding of state-of-the-art transformer models, I decided to implement a decoder-only transformer that autoregressively predicts the next token (in this case: character) in a sequence.  
+The model is trained to predict each successive token in parallel across the entire sequence, using causal self-attention to ensure that future tokens do not influence the predictions of previous ones.  
 This autoregressive approach allows the model to generate new sequences by sampling from the token predictions, creating (in this case) entirely novel text.
 
 Slightly more technical details:
@@ -16,7 +16,7 @@ Slightly more technical details:
 _Marcovaldo_ is a collection of short stories by Italo Calvino, focused on the humorous adventures of Marcovaldo, a man living in a modern city. Calvino's unique writing style, which I first encountered in my high school literature classes, inspired this project. I aimed to explore whether the combination of large-scale matrix multiplications and simple nonlinearities could replicate, to some extent, the author's distinctive comedic register. 
 
 ## Results
-i like to believe that the answer to the previous question is partially _yes_. Here are some of my favourite results:
+I like to believe that the answer to the previous question is _partially yes_. Here are some of my favourite results:
 
 ``` 
 Per il sacciapiose nuovo aveva di qualci dove le sinteoso era signor Rizzaggiù;
