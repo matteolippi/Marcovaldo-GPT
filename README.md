@@ -19,10 +19,13 @@ _Marcovaldo_ is a collection of short stories by Italo Calvino, focused on the h
 i like to believe that the answer to the previous question is partially _yes_. Here are some of my favourite results:
 
 ``` 
-Per il sacciapiose nuovo aveva di qualci dove le sinteoso era signor Rizzaggiù; dava in per la sua spetta il magrando in città
-se la viusi arrabile di sbola agli seccari che viata, e bastato era dall’uspasso vaderebbi il cortilime Lo di davano e intantatura!
-Fininieraia, qua, tra quando sempre una che la scacciostunza alla bicella mocchia, agli atte un suoio dalla mangia
-il gattuzziondo siletro ò gli anche avversi inventi dar svolta di vigi o lo questi e il torno camminare muro di fiori seg
+Per il sacciapiose nuovo aveva di qualci dove le sinteoso era signor Rizzaggiù;
+dava in per la sua spetta il magrando in città
+se la viusi arrabile di sbola agli seccari che viata,
+e bastato era dall’uspasso vaderebbi il cortilime Lo di davano e intantatura!
+Fininieraia, qua, tra quando sempre una che la scacciostunza alla bicella mocchia,
+agli atte un suoio dalla mangia il gattuzziondo siletro ò gli anche avversi inventi
+dar svolta di vigi o lo questi e il torno camminare muro di fiori seg
 ```
 
 ```
